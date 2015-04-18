@@ -40,7 +40,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | craftzon ru                        |      4      |        5       |   5   |       |
 | descargarminecraftgratis net       |      5      |        5       |   3   |       |
 | dlminecraft net                    |      3      |        5       |   1   |       |
-| download parcraftmc com            |      1      |        5       |   1   | Hosts hundreds of mods and several modpacks without permission |
+| download parcraftmc com            |      1      |        5       |   1   | Hosts hundreds of mods and several modpacks    | without permission                 |             |                |       |       |
 | download-minecraft-mod com         |      3      |        5       |   4   |       |
 | downloadminecraft altervista org   |      5      |        1       |   5   |       |
 | downloadminecraftplay com          |      4      |        5       |   1   |       |
@@ -177,7 +177,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | space-games ucoz ru                |      5      |        5       |   4   |       |
 | stoninho blogspot com br           |      1      |        5       |   3   |       |
 | sumycraft ru                       |      2      |        5       |   5   |       |
-| swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to malicious websites and adding ads  |
+| swiftlygames com                   |      5      |        5       |   5   | A rehost of MCF changing download links to     | malicious websites and adding ads  |             |                |       |       |
 | terrariaw ru                       |      4      |        5       |   5   |       |
 | ultimateminecraftlj weebly com     |      1      |        5       |   4   |       |
 | vencko net                         |      5      |        1       |   3   |       |
